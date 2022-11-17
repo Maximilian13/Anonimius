@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+body {
+	width: 100%;
+	height: 100%;
+	background: url("https://kartinkin.net/uploads/posts/2021-07/1625183465_29-kartinkin-com-p-khakerskii-fon-krasivie-foni-29.jpg");
+	background-size: cover;
+	font-family: 'Rubik Bubbles', cursive;
+}
+
+input {
+	margin-left: 35%;
+	margin-top: 20%;
+	font-size: 42px;
+	font-family: 'Rubik Bubbles', cursive;
+}
+
+button {
+	margin-left: 38%;
+	margin-top: 3%;
+	padding: 10px 20px;
+	border-radius: 3px;
+	background-color: green;
+	border: none;
+	font-size: 42px;
+	font-family: 'Rubik Bubbles', cursive;
+}
